@@ -25,7 +25,7 @@ simple commands to manage cards and projects.
 ### Step 2 - Set up API token
 
 The next step is fill in your personal API token. You can find this token in the
-user settings page. After that, the file content should look like this
+user settings page. After that, the `.env` file content should look like this
 
 ```
 NOSTROMO_API_TOKEN=YOUR_PERSONAL_TOKEN
